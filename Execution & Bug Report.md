@@ -36,7 +36,7 @@ BR-04(Exploratory tests)
 	Actual: accepted bet placing and negative balance
 	Business Impact: severe balance abuse and money loss
 
-	02-Place bet stress test:
+02-Place bet stress test:
 	Severity: Critical
 	Preconditions: balance 40.00
 	Reproduction steps:
