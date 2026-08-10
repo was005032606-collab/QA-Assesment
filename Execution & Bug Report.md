@@ -46,5 +46,6 @@ BR-04(Exploratory tests)
 		after loading state appear repeatedly clicking on place bet
 	Expected vs Actual result:
 	Expected: no actions due to processing current bet (409 error)
-	Actual: repeated bet placement with same amount, odds on same side, match with multiple error messages appering that sometimes close themself with inactive rebet button 
+	Actual: repeated bet placement with same amount, odds on same side,
+	match with multiple error messages appering that sometimes close themself with inactive rebet button 
 	Business Impact: severe balance abuse and money loss
